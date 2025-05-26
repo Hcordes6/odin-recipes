@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(224, 209, 209);
+}
+
+.center {
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.header {
+
+    font-size: 48px;
+}
+
+.link {
+    font-size: 32px;
+    background-color: burlywood;
+    margin: 8px;
+    padding: 8px;
+}
